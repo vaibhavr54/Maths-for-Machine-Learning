@@ -1,61 +1,57 @@
-# Probability and Statistics Notes Repo
+# Maths For Machine Learning
 
-A **concise, well-organized collection of PDF notes** covering the fundamentals and intermediate topics of probability and statistics. This repository serves as a comprehensive resource for students, educators, and professionals seeking reliable study material for coursework, exam preparation, and quick reference.
+A **well-organized collection of PDF notes** covering foundational and intermediate topics in **probability, statistics, and linear algebra**. This repository serves as a comprehensive, concise resource ideal for students, educators, and professionals seeking structured study material for coursework, exam preparation, or quick reference in data science, machine learning, and quantitative research.
 
 ## 📚 Repository Overview
 
-This collection includes carefully curated PDF notes that span key topics in probability and statistics, making core concepts accessible and easy to understand. The notes are structured to facilitate learning progression from basic theories to practical applications.
+This curated collection includes chapter-wise PDFs that systematically introduce and interconnect the essential mathematical pillars of data-driven fields. The notes are designed for both self-study and teaching, emphasizing clear explanations, practical examples, and real-world relevance.
 
 ## ✨ Key Topics Covered
 
-- **Probability Theory**  
-  Introduction to probability, rules, and foundational concepts
+### Linear Algebra
+- Scalars, Vectors, and Matrices: Definitions and applications in ML and data science.
+- Vector Operations: Addition, subtraction, dot and cross products, projections.
+- Matrix Operations: Multiplication, inversion, decompositions (LU, QR, SVD), determinant, rank.
+- Eigenvalues and Eigenvectors: PCA and dimensionality reduction applications.
+- Vector Spaces, Linear Independence, Basis Vectors: Core concepts for data transformations.
+- Linear Transformations: Foundations for regression, neural networks, and data mapping.
+- Tensor Basics: Fundamentals of higher-dimensional data structures.
+- Advanced Topics: Moore-Penrose pseudoinverse, Hadamard product, positive definite matrices.
 
-- **Descriptive Statistics**  
-  Measures of central tendency, dispersion, and data visualization
+### Probability Theory
+- Basic Concepts: Probability rules, conditional probability, Bayes’ theorem.
+- Probability Distributions: Discrete (Binomial, Poisson) and continuous (Normal, Exponential).
+- Random Variables: Expectations, variance, and covariance fundamentals.
 
-- **Probability Distributions**  
-  Common discrete and continuous distributions (e.g., Binomial, Normal)
+### Statistics
+- Descriptive Statistics: Measures of central tendency, dispersion, and data visualization techniques.
+- Inferential Statistics: Hypothesis testing, confidence intervals, p-values.
+- Regression Analysis: Linear and logistic regression modeling.
+- Statistical Tests: t-tests, ANOVA, chi-square tests.
+- Sampling & Experimental Design: Techniques for data collection and study setups.
+- Advanced Topics (Optional): Multivariate statistics, Bayesian inference, time series analysis.
 
-- **Inferential Statistics**  
-  Hypothesis testing, confidence intervals, p-values, and significance
+## 🚀 Who Should Use This?
 
-- **Regression Analysis**  
-  Linear and logistic regression models and interpretation
+- **Students** preparing for exams or strengthening their quantitative foundation.
+- **Educators** seeking well-structured teaching materials.
+- **Data Science and Machine Learning Practitioners** needing an accessible quick reference or refresher.
+- **Professionals** looking for reliable applied mathematics resources in analytics.
 
-- **Statistical Tests**  
-  T-tests, ANOVA, chi-square tests for comparing groups and relationships
+## 🛠 How to Use
 
-- **Sampling & Experimental Design**  
-  Techniques for data collection and study setup
-
-- **Advanced Topics (optional)**  
-  Bayesian inference, multivariate analysis, time series overview
-
-## 🛠 Usage Instructions
-
-- Browse or download PDFs as per your study requirements.
-- Use this repository for academic coursework, exam preparation, or quick review.
-- Open for contributions: Suggestions and additional notes are welcome.
-
-## 🎯 Who Should Use This?
-
-- Students preparing for exams or learning statistics fundamentals  
-- Educators seeking well-structured teaching materials  
-- Data science and analytics professionals needing refresher resources  
+- Browse or download PDFs based on your study needs.
+- Follow topics sequentially or jump to specific areas of interest.
+- Suggestions, corrections, or additions to the repository are welcome.
 
 ## 🤝 Contribution & Feedback
 
-Contributions to expand or improve the repository are encouraged. Please open issues or submit pull requests for updates, corrections, or new material.
+Contributions to enhance or expand this repository are encouraged. Please submit issues or pull requests for updates, corrections, or new content.
 
 ## 📬 Contact
 
-For questions or suggestions, you may contact me
+For questions or suggestions, reach out via:  
+- GitHub: [github.com/vaibhavr54/Maths-for-Machine-Learning](http://www.github.com/vaibhavr54/Maths-for-Machine-Learning)  
+- Email: [vaibhavrakshe9220@gmail.com](mailto:vaibhavrakshe9220@gmail.com)
 
-Vaibhav Rakshe
-
-email - vaibhavrakshe9220@gmail.com
-
-github - www.github.com/vaibhavr54/Probability-and-Statistics
-
-⭐ If you find this repository useful, please consider starring it!
+⭐ If you find this repository helpful, please consider giving it a star!
