@@ -51,7 +51,7 @@ Contributions to enhance or expand this repository are encouraged. Please submit
 ## 📬 Contact
 
 For questions or suggestions, reach out via:  
-- GitHub: [github.com/vaibhavr54/Maths-for-Machine-Learning](http://www.github.com/vaibhavr54/ 
+- GitHub: http://www.github.com/vaibhavr54/ 
 - Email: [vaibhavrakshe9220@gmail.com](mailto:vaibhavrakshe9220@gmail.com)
 
 ⭐ If you find this repository helpful, please consider giving it a star!
